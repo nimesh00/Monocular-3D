@@ -1,0 +1,2 @@
+main.py is the primary file that should be run. Make sure that your system has python and opencv installed on it.
+helper.py is the supplementary file containing most of the functions. It was made to make main.py less cluttered.
